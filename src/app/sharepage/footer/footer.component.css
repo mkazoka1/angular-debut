@@ -1,0 +1,19 @@
+
+
+.social-icons ul li {
+    display: inline-block;
+    background-color: white;
+    margin: 24px;
+    padding: 10px;
+    font: 900;    
+    border-radius: 10px;
+}
+.icons{
+    padding-top: 50px;
+    text-align: center;
+}
+#last{
+    background-color: rgb(11, 11, 11);
+    color: white;
+    height: 400px;
+}
