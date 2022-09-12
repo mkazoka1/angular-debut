@@ -1,4 +1,9 @@
+.footer {
+    overflow: hidden;
+    position: sticky;
+    top: 100%;
 
+}
 
 .social-icons ul li {
     display: inline-block;

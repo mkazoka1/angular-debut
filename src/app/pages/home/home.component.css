@@ -1,0 +1,17 @@
+.showcase{
+    background-image: url('../../../assets/drink.jpg');
+    background-size: cover;
+    background-position:center;
+    height: 400px;
+}
+h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   font-weight: bold;
+}
+
+.cards {
+    height: 400px;
+    align-items: center;
+    margin: auto;
+    padding-left: 90px;
+}
