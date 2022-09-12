@@ -1,0 +1,13 @@
+.last {
+        min-height: 400px;
+}
+.last2 {
+    background-image: url('../../../assets/bar.jpg');
+    background-size: cover;
+    background-position: center;
+    min-height: 200px;
+    
+}
+h2 {
+    text-align: left;
+}
