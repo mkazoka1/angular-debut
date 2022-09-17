@@ -10,7 +10,7 @@ h1{
 }
 
 .cards {
-    height: 400px;
+    min-height: 400px;
     align-items: center;
     margin: auto;
     padding-left: 90px;
